@@ -13,7 +13,6 @@ export default function Sidebox() {
                             <li>졸업 후 진로</li>
                         </ul>
                     </li>
-                    <li>Test</li>
                     <li>Notice</li>
                     <li>Work</li>
                     <li>Schedule</li>
